@@ -1,2 +1,2 @@
-# form-card
-This is card created from information you put in a form
+# Card Generator
+This is card generator created from information you put in a form.
